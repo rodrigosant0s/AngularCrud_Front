@@ -4,7 +4,7 @@
 
 ## Sobre o Projeto:
 
-#### Sistema desenvolvido baseado no projeto da Cod3rcursos com intuito de aprender mais sobre o framework Angular
+#### Sistema desenvolvido baseado no projeto da Cod3rcursos com intuito de aprender mais sobre o framework Angular.
 
 <p><img alt="gif" src="https://raw.githubusercontent.com/Rodrigo-Santos-Farias/AngularCrud_Front/master/gitGif/git.gif" width="800" heidth="361"></p>
 
