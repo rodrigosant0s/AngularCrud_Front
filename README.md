@@ -6,7 +6,7 @@
 
 #### Sistema desenvolvido baseado no projeto da Cod3rcursos com intuito de aprender mais sobre o framework Angular
 
-<img scr="./gitGif/git.gif">
+<img scr="././gitGif/git.gif">
 
 ---
 
