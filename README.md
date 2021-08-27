@@ -6,7 +6,7 @@
 
 #### Sistema desenvolvido baseado no projeto da Cod3rcursos com intuito de aprender mais sobre o framework Angular
 
-<p><img align="right" alt="gif" scr="https://raw.githubusercontent.com/Rodrigo-Santos-Farias/AngularCrud_Front/master/gitGif/git.gif" width="800" heidth="361"></p>
+<p><img alt="gif" src="https://raw.githubusercontent.com/Rodrigo-Santos-Farias/AngularCrud_Front/master/gitGif/git.gif" width="800" heidth="361"></p>
 
 ---
 
