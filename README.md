@@ -16,8 +16,9 @@
 
 # Clone Repository
 
-$```bash git clone https://github.com/Rodrigo-Santos-Farias/AngularCrud_Front.git```
-
+```bash
+$ git clone https://github.com/Rodrigo-Santos-Farias/AngularCrud_Front.git
+```
 # Install Dependecies
 $ npm install
 
